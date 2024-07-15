@@ -1,10 +1,6 @@
 # Simple-Pipeline-ETL
 
-Certainly! I'll create a professional GitHub README for your data engineering project based on the Python files you've provided. Here's a draft:
 
-# NYC Taxi Data Pipeline
-
-This project implements a data pipeline for processing and analyzing New York City taxi trip data using Mage AI, PostgreSQL, and Python.
 
 ## Project Overview
 
